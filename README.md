@@ -1,4 +1,4 @@
-# My first experimentation with binder
+# Small Demo, describing how the code could be directly integrated into the book
 
 
 
