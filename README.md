@@ -1,4 +1,4 @@
-# Small Demo, describing how the code could be directly integrated into the book
+# Small demo describing how the code will be integrated into the book
 
 
 
